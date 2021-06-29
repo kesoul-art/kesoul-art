@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kesoul-art
 - 👀 I’m interested in User Experience and Front end Programming
-- 🌱 I’m currently learning AngularJS
+- 🌱 I’m currently learning HTML5, CSS3, React, Bootstrap
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
